@@ -1,5 +1,7 @@
 # Pindah Private Limited 🌍💻
 
+![Pindah Private Limited Logo](https://pindah.org/wp-content/uploads/2024/06/Frame-Logo.png)
+
 Welcome to Pindah Private Limited's official GitHub repository! We're a dynamic startup based in Zimbabwe, dedicated to developing cutting-edge software solutions and IoT innovations across various sectors including energy, education, transport, and agriculture.
 
 ## About Us 🏢
